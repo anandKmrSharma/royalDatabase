@@ -2,12 +2,12 @@
 	"data": [
 	  {
 		"id": 1,
-		"name": "Aprilia SR 150 (ABS)",
+		"name": "Honda",
 		"img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/030/medium/Aprilia-SR-150__...png?1504092295",
 		"booktime": "22",
 		"kmlimit": "5",
 		"exkm": "4",
-		"price": "7000"
+		"price": "1000"
 	  },
 	  {
 		"id": 2,
@@ -16,7 +16,7 @@
 		"booktime": "19",
 		"kmlimit": "5",
 		"exkm": "4",
-		"price": "9000"
+		"price": "2000"
 	  },
 	  {
 		"id": 3,
@@ -25,7 +25,7 @@
 		"booktime": "18",
 		"kmlimit": "5",
 		"exkm": "4",
-		"price": "5000"
+		"price": "3000"
 	  },
 	  {
 		"id": 4,
@@ -34,7 +34,7 @@
 		"booktime": "19",
 		"kmlimit": "5",
 		"exkm": "4",
-		"price": "1000"
+		"price": "4000"
 	  },
 	  {
 		"id": 5,
@@ -43,7 +43,7 @@
 		"booktime": "21",
 		"kmlimit": "5",
 		"exkm": "4",
-		"price": "3000"
+		"price": "5000"
 	  },
 	  {
 		"id": 6,
@@ -52,7 +52,7 @@
 		"booktime": "25",
 		"kmlimit": "10",
 		"exkm": "5",
-		"price": "8000"
+		"price": "6000"
 	  },
 	  {
 		"id": 7,
@@ -61,7 +61,7 @@
 		"booktime": "22",
 		"kmlimit": "10",
 		"exkm": "5",
-		"price": "4000"
+		"price": "7000"
 	  },
 	  {
 		"id": 8,
@@ -70,7 +70,7 @@
 		"booktime": "25",
 		"kmlimit": "10",
 		"exkm": "5",
-		"price": "5000"
+		"price": "8000"
 	  },
 	  {
 		"id": 9,
@@ -79,7 +79,7 @@
 		"booktime": "47",
 		"kmlimit": "12",
 		"exkm": "5.5",
-		"price": "7000"
+		"price": "9000"
 	  },
 	  {
 		"id": 10,
@@ -88,7 +88,7 @@
 		"booktime": "54",
 		"kmlimit": "12",
 		"exkm": "6",
-		"price": "2000"
+		"price": "10000"
 	  },
 	  {
 		"id": 11,
@@ -97,7 +97,7 @@
 		"booktime": "49",
 		"kmlimit": "10",
 		"exkm": "6",
-		"price": "1000"
+		"price": "11000"
 	  },
 	 
 	  {
@@ -107,7 +107,7 @@
 		"booktime": "49",
 		"kmlimit": "10",
 		"exkm": "6",
-		"price": "1000"
+		"price": "1200"
 	  }
 	],
 
@@ -123,10 +123,10 @@
 
 	"user": [
 	  {
-		"name": "ashwini",
-		"email": "ashwini@gmail.com",
-		"password": "ashwini",
-		"phone": "7875213437",
+		"name": "anand",
+		"email": "anand31397@gmail.com",
+		"password": "anand31397@",
+		"phone": "8240404896",
 		"id": 1
 	  },
 	  {
